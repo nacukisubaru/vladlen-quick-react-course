@@ -18,3 +18,13 @@ code {
   width: 600px;
 }
 
+.rm {
+  background: red;
+  border-radius: 50%;
+  border:none;
+  color:#fff;
+}
+
+.done {
+  text-decoration: line-through;
+}
